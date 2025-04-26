@@ -79,12 +79,12 @@ Store it safely using Streamlit Cloud Secrets if deploying.
 
 ##  Features
 
-- ✍️ Generate creative, structured 5-page movie scripts
-- 🖼️ Generate detailed storyboard illustrations
-- 🎥 Create narrated videos from script + storyboards
-- 📥 Download scripts, images, and videos easily
-- 🎨 Multiple genres and character inputs
-- 🌍 Fully deployable on **Streamlit Cloud**
+-  Generate creative, structured 5-page movie scripts
+-  Generate detailed storyboard illustrations
+-  Create narrated videos from script + storyboards
+-  Download scripts, images, and videos easily
+-  Multiple genres and character inputs
+-  Fully deployable on **Streamlit Cloud**
 
 ---
 
