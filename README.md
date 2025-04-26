@@ -1,6 +1,6 @@
 ---
 
-# 🎬 AI Script & Storyboard Generator
+#  AI Script & Storyboard Generator
 [![View in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-script-generator.streamlit.app/)
 
 Generate creative **5-page movie scripts** and **cinematic storyboard illustrations** with **voiceover videos**, powered by **OpenAI GPT-4o** and **DALL·E 3**.
@@ -9,7 +9,7 @@ Made with ❤️ by **Varun Kasa**.
 
 ---
 
-## 📜 About the Project
+##  About the Project
 
 **Problem:**  
 Scriptwriting and visual storyboarding are time-consuming and require professional expertise. Beginners, writers, and indie filmmakers often struggle to rapidly prototype ideas.
@@ -21,10 +21,11 @@ This app provides an AI-powered solution that takes your input (genres, characte
 - **Voiceover narration** + **video** combining the storyboard and script
 
 All **without coding or design skills**.
+[ChatGPT Image Apr 26, 2025, 02_18_29 PM](https://github.com/user-attachments/assets/9aea3492-38b5-4e1b-b414-1f1673a09efc)
 
 ---
 
-## 🛠️ Built With
+##  Built With!
 
 - [Streamlit](https://streamlit.io/) — For the frontend web app
 - [OpenAI API](https://platform.openai.com/docs) — GPT-4o for scripts, DALL·E 3 for images
@@ -35,7 +36,7 @@ All **without coding or design skills**.
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone this repository
@@ -51,7 +52,7 @@ streamlit run app.py
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Enter your **OpenAI API key**.
 2. Choose:
@@ -68,14 +69,14 @@ streamlit run app.py
 
 ---
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 This project requires an OpenAI API Key to work.  
 Store it safely using Streamlit Cloud Secrets if deploying.
 
 ---
 
-## 🧩 Features
+##  Features
 
 - ✍️ Generate creative, structured 5-page movie scripts
 - 🖼️ Generate detailed storyboard illustrations
@@ -86,7 +87,7 @@ Store it safely using Streamlit Cloud Secrets if deploying.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
 
