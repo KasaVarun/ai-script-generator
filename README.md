@@ -21,7 +21,8 @@ This app provides an AI-powered solution that takes your input (genres, characte
 - **Voiceover narration** + **video** combining the storyboard and script
 
 All **without coding or design skills**.
-[ChatGPT Image Apr 26, 2025, 02_18_29 PM](https://github.com/user-attachments/assets/9aea3492-38b5-4e1b-b414-1f1673a09efc)
+![img](https://github.com/user-attachments/assets/27078586-6e07-4e64-af37-2c2e327566aa)
+
 
 ---
 
